@@ -1,2 +1,6 @@
 This is a test please do not worry...
 Second test...
+
+<script>
+document.alert("s");
+</script>
